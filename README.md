@@ -1,4 +1,4 @@
-# Quantum Forge Benchmark Code
+# Character Decomposition Benchmark Code
 
 This repository contains the benchmark code used in the paper "Bridging Classical and Quantum: Group-Theoretic Approach to Quantum Circuit Simulation" by Daksh Shami. The code demonstrates the performance improvements achieved by the character function decomposition method for simulating quantum circuits.
 
